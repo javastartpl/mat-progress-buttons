@@ -1,13 +1,20 @@
+# Angular Material Design Progress Buttons
+
+[![npm version](https://badge.fury.io/js/javastart%2Fmat-progress-buttons.svg)](https://badge.fury.io/js/@javastart%2Fmat-progress-buttons)
+
 <p align="center">
   <img height="256px" width="256px" style="text-align: center;" src="https://cdn.rawgit.com/michaeldoye/mat-progress-buttons/master/demo/src/assets/logo.svg">
 </p>
 
-# Anguar Material Design Progress Buttons
+## Maintenance fork 🛠️
 
-[![npm version](https://badge.fury.io/js/mat-progress-buttons.svg)](https://badge.fury.io/js/mat-progress-buttons)
-[![Build Status](https://travis-ci.org/michaeldoye/mat-progress-buttons.svg?branch=master)](https://travis-ci.org/michaeldoye/mat-progress-buttons)
-[![dependency Status](https://david-dm.org/michaeldoye/mat-progress-buttons/status.svg)](https://david-dm.org/michaeldoye/mat-progress-buttons)
-[![devDependency Status](https://david-dm.org/michaeldoye/mat-progress-buttons/dev-status.svg?branch=master)](https://david-dm.org/michaeldoye/mat-progress-buttons#info=devDependencies)
+This is only a maintenance fork from the [original repo](https://github.com/michaeldoye/mat-progress-buttons) which seems to be abandoned by the author. 
+
+Since I use this in my project and updating to newer Angular versions resulted in some errors/warnings given by this library I've decided to update it by removing the `peerDependencies` restrictions.
+
+There are no plans of further development of this library from my side.
+
+Below are the original docs.
 
 ## Demo
 
