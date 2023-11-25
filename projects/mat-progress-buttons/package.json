@@ -1,15 +1,15 @@
 {
-  "name": "@jasbit-software/mat-progress-buttons",
+  "name": "@javastart/mat-progress-buttons",
   "description": "Material Design Progress Buttons",
-  "version": "9.3.2",
-  "homepage": "https://github.com/michaeldoye/mat-progress-buttons",
+  "version": "17.0.0",
+  "homepage": "https://github.com/javastartpl/mat-progress-buttons",
   "author": {
     "name": "Michael Doye",
     "url": "https://github.com/michaeldoye"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/michaeldoye/mat-progress-buttons.git"
+    "url": "git://github.com/javastartpl/mat-progress-buttons.git"
   },
   "license": "MIT",
   "keywords": [
@@ -17,14 +17,14 @@
     "material design"
   ],
   "bugs": {
-    "url": "https://github.com/michaeldoye/mat-progress-buttons/issues"
+    "url": "https://github.com/javastartpl/mat-progress-buttons/issues"
   },
   "private": false,
   "peerDependencies": {
-    "@angular/common": "^13.0.0 || ^14.0.0 || ^15.0.0",
-    "@angular/core": "^13.0.0 || ^14.0.0 || ^15.0.0",
-    "@angular/cdk": "^13.0.0 || ^14.0.0 || ^15.0.0",
-    "@angular/material": "^13.0.0 || ^14.0.0 || ^15.0.0"
+    "@angular/common": ">=13.0.0",
+    "@angular/core": ">=13.0.0",
+    "@angular/cdk": ">=13.0.0",
+    "@angular/material": ">=13.0.0"
   },
   "dependencies": {
     "tslib": "^2.3.0"

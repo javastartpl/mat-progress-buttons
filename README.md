@@ -10,9 +10,13 @@
 
 This is only a maintenance fork from the [original repo](https://github.com/michaeldoye/mat-progress-buttons) which seems to be abandoned by the author. 
 
+Newest release `@javastartpl/mat-progress-buttons` here: [![npm version](https://badge.fury.io/js/javastart%2Fmat-progress-buttons.svg)](https://badge.fury.io/js/@javastart%2Fmat-progress-buttons)
+
 Since I use this in my project and updating to newer Angular versions resulted in some errors/warnings given by this library I've decided to update it by removing the `peerDependencies` restrictions.
 
 There are no plans of further development of this library from my side.
+
+Release with `npm run release`
 
 Below are the original docs.
 
